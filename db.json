@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": "admin-id",
+      "email": "sy5455977@gmail.com",
+      "username": "sy5455977@gmail.com",
+      "password": "Sachin6264341093",
+      "online": true,
+      "lastPing": 1781509980357,
+      "createdAt": "2026-06-05T12:00:00Z",
+      "isBanned": false,
+      "activeDuration": 16258
+    },
+    {
+      "id": "user-1",
+      "email": "test@example.com",
+      "username": "testuser",
+      "password": "Test1234",
+      "online": false,
+      "lastPing": 1780664400000,
+      "createdAt": "2026-06-05T12:05:00Z",
+      "isBanned": false,
+      "activeDuration": 4820
+    },
+    {
+      "id": "user-2",
+      "email": "rhhfdvv@gmail.com",
+      "username": "testing_",
+      "password": "ghKDkk3GSZ2U3y",
+      "online": false,
+      "lastPing": 1780665000000,
+      "createdAt": "2026-06-05T12:10:00Z",
+      "isBanned": false,
+      "activeDuration": 210
+    },
+    {
+      "id": "user-3",
+      "email": "luciferanime564@gmail.com",
+      "username": "lucky_",
+      "password": "newpassword123",
+      "online": false,
+      "lastPing": 1781442100000,
+      "createdAt": "2026-06-05T12:15:00Z",
+      "isBanned": false,
+      "activeDuration": 32800
+    },
+    {
+      "id": "user-4",
+      "email": "random@test.com",
+      "username": "randomuser",
+      "password": "Test1234",
+      "online": false,
+      "lastPing": 1780665600000,
+      "createdAt": "2026-06-05T12:20:00Z",
+      "isBanned": false,
+      "activeDuration": 1400
+    },
+    {
+      "id": "user-5",
+      "email": "tester1@chatter.com",
+      "username": "tester1",
+      "password": "Test1234",
+      "online": false,
+      "lastPing": 1780751200000,
+      "createdAt": "2026-06-05T12:25:00Z",
+      "isBanned": false,
+      "activeDuration": 750
+    },
+    {
+      "id": "user-6",
+      "email": "qtest@chatter.com",
+      "username": "qtestuser",
+      "password": "QTest1234",
+      "online": false,
+      "lastPing": 1780752000000,
+      "createdAt": "2026-06-05T12:30:00Z",
+      "isBanned": false,
+      "activeDuration": 120
+    }
+  ],
+  "traffic": [
+    {
+      "date": "2026-06-11",
+      "visits": 110,
+      "activeUsers": [
+        "test@example.com",
+        "rhhfdvv@gmail.com"
+      ],
+      "chatsCount": 45
+    },
+    {
+      "date": "2026-06-12",
+      "visits": 190,
+      "activeUsers": [
+        "test@example.com",
+        "luciferanime564@gmail.com",
+        "tester1@chatter.com"
+      ],
+      "chatsCount": 82
+    },
+    {
+      "date": "2026-06-13",
+      "visits": 240,
+      "activeUsers": [
+        "sy5455977@gmail.com",
+        "luciferanime564@gmail.com",
+        "qtest@chatter.com"
+      ],
+      "chatsCount": 115
+    },
+    {
+      "date": "2026-06-14",
+      "visits": 310,
+      "activeUsers": [
+        "sy5455977@gmail.com",
+        "luciferanime564@gmail.com"
+      ],
+      "chatsCount": 140
+    },
+    {
+      "date": "2026-06-15",
+      "visits": 95,
+      "activeUsers": [
+        "sy5455977@gmail.com"
+      ],
+      "chatsCount": 1
+    }
+  ]
+}

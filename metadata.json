@@ -1,0 +1,10 @@
+{
+  "name": "Testing 2.7",
+  "description": "A real-time voice assistant powered by Gemini Live API with a flirty and charming personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
